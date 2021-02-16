@@ -1,4 +1,4 @@
-#Better Teams Rubrics
+# Better Teams Rubrics
 
 Short script to generate a Microsoft Teams rubric to help mark a assignments
 
