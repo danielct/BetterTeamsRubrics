@@ -1,6 +1,6 @@
 # Better Teams Rubrics
 
-Short script to generate a Microsoft Teams rubric to help mark a assignments
+Short script to generate a Microsoft Teams rubric to help mark assignments
 
 ![](https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true)
 
