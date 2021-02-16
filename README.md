@@ -2,7 +2,10 @@
 
 Short script to generate a Microsoft Teams rubric to help mark assignments.
 
-![](https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true =250)
+<img src="https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true" width="200"/>
+
+
+![](https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true)
 
 
 
