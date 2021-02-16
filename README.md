@@ -2,7 +2,7 @@
 
 Short script to generate a Microsoft Teams rubric to help mark assignments.
 
-![](https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true)
+![](https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true =250)
 
 
 
@@ -29,6 +29,7 @@ Creating such a rubric by hand is tedious, so I have written a short script to g
 5. [Upload](https://support.microsoft.com/en-us/office/create-and-manage-grading-rubrics-in-microsoft-teams-68292a5f-f582-4a41-8ba3-8c96288ec5ca#ID0EAABAAA=Share_rubrics) and attach this rubric to the assignment in Teams. You may need to enter the correct value for "Total Marks". 
 
 6. Grade assignments using the rubric. The total number of marks is calculated automatically. Be careful not to select the "N/A" options or you will get fractional marks.
+
 ![](https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true)
 
    In the Examples folder you can find an example assignment, specification file, and the generated rubric.
