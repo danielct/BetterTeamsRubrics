@@ -3,12 +3,11 @@
 1. What is your name? __[2]__   
 
 2.   
+      a. What is your favourite colour? __[1]__
 
-   a. What is your favourite colour? __[1]__
+      b.  
 
-   b.  
-
-   ​	i. What is the capital of Assyria? __[3]__
+   ​	   i. What is the capital of Assyria? __[3]__
 
    
 
