@@ -7,10 +7,10 @@
 
       b.  
 
-   ​	   i. What is the capital of Assyria? __[3]__
+   ​	        i. What is the capital of Assyria? __[3]__
 
    
 
-3.  Can we have a four mark question on this test? __[4]__ 
+3.  Can we have a four-mark question on this test? __[4]__ 
 
    
