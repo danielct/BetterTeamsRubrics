@@ -4,11 +4,6 @@ Short script to generate a Microsoft Teams rubric to help mark assignments.
 
 <img src="https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true" width="200"/>
 
-
-![](https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true)
-
-
-
 Microsoft Teams doesn't have great support for assignments that have multiple open-ended questions with different mark values. However, given question values, it's possible to make a [rubric](https://support.microsoft.com/en-us/office/create-and-manage-grading-rubrics-in-microsoft-teams-68292a5f-f582-4a41-8ba3-8c96288ec5ca) which can [assign the correct mark value](https://answers.microsoft.com/en-us/education_ms/forum/all/marking-maths-tests-on-assignments-on-teams/5d202645-867d-455b-b9dc-189493c2bef5) for each question. 
 
 Creating such a rubric by hand is tedious, so I have written a short script to generate a rubric given question values.
@@ -33,7 +28,7 @@ Creating such a rubric by hand is tedious, so I have written a short script to g
 
 6. Grade assignments using the rubric. The total number of marks is calculated automatically. Be careful not to select the "N/A" options or you will get fractional marks.
 
-![](https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true)
+<img src="https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Marking.png?raw=true" width="300"/>
 
    In the Examples folder you can find an example assignment, specification file, and the generated rubric.
 
