@@ -26,7 +26,7 @@ Creating such a rubric by hand is tedious, so I have written a short script to g
 
    ![](https://github.com/danielct/RubricsForTeamsTests/blob/main/pics/Output.png?raw=true) 
 
-5. [Upload](https://support.microsoft.com/en-us/office/create-and-manage-grading-rubrics-in-microsoft-teams-68292a5f-f582-4a41-8ba3-8c96288ec5ca#ID0EAABAAA=Share_rubrics) this rubric to the assignment in Teams
+5. [Upload](https://support.microsoft.com/en-us/office/create-and-manage-grading-rubrics-in-microsoft-teams-68292a5f-f582-4a41-8ba3-8c96288ec5ca#ID0EAABAAA=Share_rubrics) and attach this rubric to the assignment in Teams. You may need to enter the correct value for "Total Marks". 
 
 6. Grade assignments using the rubric. The total number of marks is calculated automatically. Be careful not to select the "N/A" options or you will get fractional marks.
 
