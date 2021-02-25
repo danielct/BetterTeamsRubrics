@@ -36,5 +36,6 @@ Creating such a rubric by hand is tedious, so I have written a short script to g
 
 - Teams won't let you have more than 20 categories in a rubric. For us, that means a maximum of 20 questions. Maybe they'll fix this later.
 - The way Teams handles decimals is a bit odd, so you may encounter fractional marks (eg. 5.01) if the total number of marks does not divide 100, or for questions that have 3 or 6 marks.
+- If the total number of marks doesn't divide 100 you may get an "error uploading rubric message". One workaround is to add a dummy question to bring the total number of marks to a number that divides 100. 
 - The teams rubric specification is undocumented and a bit finnicky. If you get an "error uploading rubric" message, feel free to contact me.
 
